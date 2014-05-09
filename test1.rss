@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://arxiv.org/">
+<title>hep-ph updates on arXiv.org</title>
+<link>http://arxiv.org/</link>
+<description rdf:parseType="Literal">High Energy Physics - Phenomenology (hep-ph) updates on the arXiv.org e-print archive</description>
+<dc:language>en-us</dc:language>
+<dc:date>2013-11-24T20:30:00-05:00</dc:date>
+<dc:publisher>www-admin@arxiv.org</dc:publisher>
+<dc:subject>High Energy Physics - Phenomenology</dc:subject>
+<syn:updateBase>1901-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5577" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5607" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5630" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5666" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5673" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5703" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5733" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5746" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5764" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5773" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5785" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5811" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5823" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5860" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5864" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5869" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1209.0958" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1212.3694" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1304.5737" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1304.6110" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1305.7494" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1306.0564" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1306.6095" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1307.2214" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1307.7152" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1308.0459" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1308.1445" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1308.2186" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.1601" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.2453" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1311.5398" />
+  <rdf:li rdf:resource="http://arxiv.org/abs/1310.3626" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://arxiv.org/icons/sfx.gif" />
+</channel>
+<image rdf:about="http://arxiv.org/icons/sfx.gif">
+<title>arXiv.org</title>
+<url>http://arxiv.org/icons/sfx.gif</url>
+<link>http://arxiv.org/</link>
+</image>
+<item rdf:about="http://arxiv.org/abs/1311.5577">
+<title>Effects of Fluid Velocity Gradients on Heavy Quark Energy Loss. (arXiv:1311.5577v1 [hep-th])</title>
+<link>http://arxiv.org/abs/1311.5577</link>
+<description rdf:parseType="Literal">&lt;p&gt;We use holographic duality to analyze the drag force on, and consequent
+energy loss of, a heavy quark moving through a strongly coupled conformal fluid
+with non-vanishing gradients in its velocity and temperature. We derive the
+general expression for the drag force to first order in the fluid gradients.
+Using this general expression, we show that a quark that is instantaneously at
+rest, relative to the fluid, in a fluid whose velocity is changing with time
+feels a nonzero force. And, we show that for a quark that is moving
+ultra-relativistically, the first order gradient &quot;corrections&quot; become larger
+than the zeroth order drag force, suggesting that the gradient expansion may be
+unreliable in this regime. We illustrate the importance of the fluid gradients
+for heavy quark energy loss by considering a fluid with one-dimensional boost
+invariant Bjorken expansion as well as the strongly coupled plasma created by
+colliding sheets of energy.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Lekaveckas_M/0/1/0/all/0/1&quot;&gt;Mindaugas Lekaveckas&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Rajagopal_K/0/1/0/all/0/1&quot;&gt;Krishna Rajagopal&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5607">
+<title>Holographic description of quantum black hole on a computer. (arXiv:1311.5607v1 [hep-th])</title>
+<link>http://arxiv.org/abs/1311.5607</link>
+<description rdf:parseType="Literal">&lt;p&gt;The discovery of the fact that black holes radiate particles and eventually
+evaporate led Hawking to pose the well-known information loss paradox. This
+paradox caused a long and serious debate since it claims that the fundamental
+laws of quantum mechanics may be violated. A possible cure appeared recently
+from superstring theory, a consistent theory of quantum gravity: if the
+holographic description of a quantum black hole based on the gauge/gravity
+duality is correct, the information is not lost and quantum mechanics remains
+valid. Here we test this gauge/gravity duality on a computer at the level of
+quantum gravity for the first time. The black hole mass obtained by Monte Carlo
+simulation of the dual gauge theory reproduces precisely the quantum gravity
+effects in an evaporating black hole. This result opens up totally new
+perspectives towards quantum gravity since one can simulate quantum black holes
+through dual gauge theories.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Hanada_M/0/1/0/all/0/1&quot;&gt;Masanori Hanada&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Hyakutake_Y/0/1/0/all/0/1&quot;&gt;Yoshifumi Hyakutake&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Ishiki_G/0/1/0/all/0/1&quot;&gt;Goro Ishiki&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Nishimura_J/0/1/0/all/0/1&quot;&gt;Jun Nishimura&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5630">
+<title>Anapole Dark Matter at the LHC. (arXiv:1311.5630v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5630</link>
+<description rdf:parseType="Literal">&lt;p&gt;The anapole moment is the only allowed electromagnetic moment for Majorana
+fermions. Fermionic dark matter acquiring an anapole can have a standard
+thermal history and be consistent with current direct detection experiments. In
+this paper, we calculate the collider monojet signatures of anapole dark matter
+and show that the current LHC results exclude anapole dark matter with mass
+less than 100 GeV, for an anapole coupling that leads to the correct thermal
+relic abundance.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Gao_Y/0/1/0/all/0/1&quot;&gt;Yu Gao&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Ho_C/0/1/0/all/0/1&quot;&gt;Chiu Man Ho&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Scherrer_R/0/1/0/all/0/1&quot;&gt;Robert J. Scherrer&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5666">
+<title>Copositive Criteria and Boundedness of the Scalar Potential. (arXiv:1311.5666v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5666</link>
+<description rdf:parseType="Literal">&lt;p&gt;To understand physics beyond the Standard Model (SM) it is important to have
+the precise knowledge of Higgs boson and top quark masses as well as strong
+coupling. Recently discovered new boson which is likely to be the SM Higgs with
+mass 123-127 GeV has a submissive impact on the stability of the new physics
+beyond standard model (BSM). The BSM models that include many scalar fields
+posses scalar potential with many quartic couplings. Due to the complicated
+structures of such scalar potentials it is indeed difficult to adjudge the
+stability of the vacuum. Thus one needs to formulate a proper prescription for
+computing the vacuum stability criteria. In this paper we have used the idea of
+copositive matrices to deduce the conditions that guarantee the boundedness of
+the scalar potential. We have discussed the basic idea behind the copositivity
+and then used that to determine the vacuum stability criteria for the
+Left-Right symmetric models with doublet, and triplet scalars and Type-II
+seesaw. As this idea is based on the strong mathematical arguments it helps to
+compute simple and unique stability criteria embracing the maximum allowed
+parameter space.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Chakrabortty_J/0/1/0/all/0/1&quot;&gt;Joydeep Chakrabortty&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Konar_P/0/1/0/all/0/1&quot;&gt;Partha Konar&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Mondal_T/0/1/0/all/0/1&quot;&gt;Tanmoy Mondal&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5673">
+<title>Cosmic Separation of Phases: the microsecond universe and the neutron star. (arXiv:1311.5673v1 [nucl-th])</title>
+<link>http://arxiv.org/abs/1311.5673</link>
+<description rdf:parseType="Literal">&lt;p&gt;It is entirely plausible under reasonable condition, that a first order QCD
+phase transition occurred from quarks to hadrons in the microsecond old
+universe. It will be shown in this paper that the quark nuggets, relics of QCD
+phase transitions, with baryon number beyond $10^{43}$ will survive the entire
+history of the universe uptil now and can be considered as candidates of the
+cold dark matter. The spin down core of the neutron star on the high density
+low temperature end of the phase diagramme initiates transition from hadrons to
+quarks. As the star spins down, the size of the quark core goes on increasing.
+What possible observables can there be for the spin-down neutron stars?
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/nucl-th/1/au:+Sinha_B/0/1/0/all/0/1&quot;&gt;Bikash Sinha&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5703">
+<title>The Effect of LHC Jet Data on MSTW PDFs. (arXiv:1311.5703v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5703</link>
+<description rdf:parseType="Literal">&lt;p&gt;We consider the effect on LHC jet cross sections on partons distribution
+functions (PDFs), in particular the MSTW2008 set of PDFs. We first compare the
+published inclusive jet data to the predictions using MSTW2008, finding a very
+good description. We also use the parton distribution reweighting procedure to
+estimate the impact of these new data on the PDFs, finding that the combined
+ATLAS 2.76 TeV and 7 TeV data, and CMS 7 TeV data have some significant impact.
+We then also investigate the impact of ATLAS, CMS and D0 dijet data using the
+same techniques. In this case we investigate the effect of using different
+scale choices for the NLO cross section calculation. We find that the dijet
+data is generally not completely compatible with the corresponding inclusive
+jet data, often tending to pull PDFs, particularly the gluon distribution, away
+from the default values. However, the effect depends on the dijet data set used
+as well as the scale choice. We also note that conclusions may be affected by
+limiting the pull on the data luminosity chosen by the best fit, which is
+sometimes a number of standard deviations. Finally we include the inclusive jet
+data in a new PDF fit explicitly. This enables us to check the consistency of
+the exact result with that obtained from the reweighting procedure. There is
+generally good, but not full quantitative agreement. Hence, the conclusion
+remains that MSTW2008 PDFs already fit the published jet data well, but the
+central values and uncertainties are altered and improved respectively by
+significant, but not dramatic extent by inclusion of these data.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Watt_B/0/1/0/all/0/1&quot;&gt;B.J.A. Watt&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Motylinski_P/0/1/0/all/0/1&quot;&gt;P. Motylinski&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Thorne_R/0/1/0/all/0/1&quot;&gt;R.S. Thorne&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5733">
+<title>Survival of Bc mesons in a hot plasma within a potential model. (arXiv:1311.5733v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5733</link>
+<description rdf:parseType="Literal">&lt;p&gt;We extend a previous work on the study of heavy charmonia and bottomonia in a
+deconfined quark-gluon plasma by considering the Bc family of mesons. With the
+introduction of this bound state of a charm and a beauty quark, we investigate
+at finite temperature the behavior of the quarkonium, in an energy region
+between the {\psi} and the {\Upsilon} states.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Alberico_W/0/1/0/all/0/1&quot;&gt;W.M. Alberico&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Carignano_S/0/1/0/all/0/1&quot;&gt;S. Carignano&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Czerski_P/0/1/0/all/0/1&quot;&gt;P. Czerski&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Pace_A/0/1/0/all/0/1&quot;&gt;A. De Pace&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Nardi_M/0/1/0/all/0/1&quot;&gt;M. Nardi&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Ratti_C/0/1/0/all/0/1&quot;&gt;C. Ratti&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5746">
+<title>Dipole subtraction with random polarisations. (arXiv:1311.5746v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5746</link>
+<description rdf:parseType="Literal">&lt;p&gt;In this talk, we discuss the speed-up of numerical calculations of jet
+observables by replacing the usual sum over all helicity amplitudes with an
+integral over a parametrisation for the parton polarisations called random
+polarisations. Random polarisations are a linear combination of helicity
+eigenstates multiplied by a phase factor depending on a so-called helicity
+angle. Instead of a summation over discrete helicities, random polarisations
+require an integration over the helicity angle. By combining this integral with
+the final-state phase space integral, we only have to evaluate one squared
+amplitude per phase space point instead of $2^n$ helicity amplitudes, where $n$
+is the total number of particles in the process. While the technique itself has
+been known since 1998, so far there has been no way of using it with dipole
+subtraction, which is probably the most-used method for dealing with infrared
+divergences in NLO calculations. After giving detailed reasons for this
+statement, we propose a solution to this problem in terms of extending the
+existing subtraction method by a new term.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Goetz_D/0/1/0/all/0/1&quot;&gt;Daniel Goetz&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Schwan_C/0/1/0/all/0/1&quot;&gt;Christopher Schwan&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Weinzierl_S/0/1/0/all/0/1&quot;&gt;Stefan Weinzierl&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5764">
+<title>Dark Matter or Neutrino recoil? Interpretation of Recent Experimental Results. (arXiv:1311.5764v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5764</link>
+<description rdf:parseType="Literal">&lt;p&gt;The elastic nuclear recoil signal, being under intense scrutiny by multiple
+underground experiments, can be interpreted either as coming from the
+interaction of nuclei with WIMP dark matter or from the scattering of new
+species of MeV-energy neutrinos. The most promising model for the latter case
+is a neutrino $\nu_b$ that interacts with baryon number, and with a flux
+sourced by the oscillations of regular solar $^8$B neutrinos. We re-analyze
+this model in light of the latest experimental results. In contrast to the
+light-DM interpretation of various tentative positive signals (anomalies) that
+is now seriously challenged by the negative results of the LUX experiment, the
+neutrino interpretation remains a viable explanation to most of the anomalies.
+Considering future prospects, we show that the superCDMS experiment alone, when
+equipped with Ge and Si detectors, will be able to detect $\nu_b$ and
+discriminate the model from a light DM interpretation. In addition, we also
+provide the forecast for the new CRESST-II run that now operates with new
+detectors and diminished backgrounds.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Pospelov_M/0/1/0/all/0/1&quot;&gt;Maxim Pospelov&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Pradler_J/0/1/0/all/0/1&quot;&gt;Josef Pradler&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5773">
+<title>An alternative subtraction scheme for NLO QCD calculations using Nagy-Soper dipoles. (arXiv:1311.5773v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5773</link>
+<description rdf:parseType="Literal">&lt;p&gt;In this work, we briefly report on the current status of an alternative
+subtraction scheme which is based on the splitting kernels of an improved
+parton shower prescription. Our focus is here on more recent developments as
+well as generic arguments on the scaling behaviour.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Bach_M/0/1/0/all/0/1&quot;&gt;Markus Bach&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Chung_C/0/1/0/all/0/1&quot;&gt;Cheng Han Chung&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Robens_T/0/1/0/all/0/1&quot;&gt;Tania Robens&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5785">
+<title>Study of Baryonic R-Parity Violating MSSM Using Jet Substructure Technique at the 14 TeV LHC. (arXiv:1311.5785v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5785</link>
+<description rdf:parseType="Literal">&lt;p&gt;We study the discovery reach of the gluino ($\widetilde{g}$) and the lightest
+stop squark ($\widetilde{t}_1$) with baryonic R-parity violation (UDD type) in
+the context of Minimal Supersymmetric Standard Model (MSSM) at the 14 TeV run
+of the LHC. We consider the gluino pair production process followed by its
+decay to a top quark and a real or virtual stop squark. The top quark produced
+from the decay of the gluino can have sufficient transverse momentum to appear
+as a single fat jet. We apply the jet substructure technique to tag such a
+hadronically decaying boosted top quark and find that gluino mass up to 1.6 TeV
+can be discovered whereas exclusion limit extends up to 1.8 TeV at the 14 TeV
+LHC with 300 $\rm fb^{-1}$ luminosity. We also briefly discuss the discovery
+prospect of the boosted stop squark which may be identified as a narrow
+resonance in the jet mass distribution.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Bhattacherjee_B/0/1/0/all/0/1&quot;&gt;Biplob Bhattacherjee&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Chakraborty_A/0/1/0/all/0/1&quot;&gt;Amit Chakraborty&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5811">
+<title>Event-by-event weighting at next-to-leading order. (arXiv:1311.5811v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5811</link>
+<description rdf:parseType="Literal">&lt;p&gt;We present a general method of associating next-to-leading order weights to
+leading order phase space configurations at hadron colliders. The method relies
+on a re-organization of phase space for the real radiation contributions,
+defining a one-to-many map such that each point in the real phase space is
+associated with a distinct Born topology. As a result virtual and real
+singularities cancel at each Born phase space point. The new phase space maps
+can be used in a traditional approach for NLO calculations. However,
+interesting applications arise when one instead integrates out the real
+radiation up to a specified scale. This allows one to define NLO weights for
+individual phase space points that are present at LO. This method allows for
+the extension of matrix element methods to next-to-leading order, even in the
+presence of jets. We discuss some recent applications of the matrix element
+method to Higgs physics at the LHC.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Campbell_J/0/1/0/all/0/1&quot;&gt;John M. Campbell&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Giele_W/0/1/0/all/0/1&quot;&gt;Walter T. Giele&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Williams_C/0/1/0/all/0/1&quot;&gt;Ciaran Williams&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5823">
+<title>Probabilistic picture for medium-induced jet evolution. (arXiv:1311.5823v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5823</link>
+<description rdf:parseType="Literal">&lt;p&gt;A high energy jet that propagates in a dense medium generates a cascade of
+partons that can be described as a classical branching process. A simple
+generating functional for the probabilities to observe a given number of gluons
+at a given time is derived. This is used to obtain an evolution equation for
+the inclusive one-gluon distribution, that takes into account the dependence
+upon the energy and the transverse momentum of the observed gluon. A study of
+the explicit transverse momentum dependence of the splitting kernel leads us to
+identify large corrections to the jet quenching parameter.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Blaizot_J/0/1/0/all/0/1&quot;&gt;Jean-Paul Blaizot&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Dominguez_F/0/1/0/all/0/1&quot;&gt;Fabio Dominguez&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Iancu_E/0/1/0/all/0/1&quot;&gt;Edmond Iancu&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Mehtar_Tani_Y/0/1/0/all/0/1&quot;&gt;Yacine Mehtar-Tani&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5860">
+<title>Effects of fermionic singlet neutrinos on high- and low-energy observables. (arXiv:1311.5860v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5860</link>
+<description rdf:parseType="Literal">&lt;p&gt;In this doctoral thesis, we study both low- and high-energy observables
+related to massive neutrinos. Neutrino oscillations have provided indisputable
+evidence in favour of non-zero neutrino masses and mixings. However, the
+original formulation of the Standard Model cannot account for these
+observations, which calls for the introduction of new Physics. Among many
+possibilities, we focus here on the inverse seesaw, a neutrino mass generation
+mechanism in which the Standard Model is extended with fermionic gauge
+singlets. This model offers an attractive alternative to the usual seesaw
+realisations since it can potentially have natural Yukawa couplings
+($\mathcal{O}(1)$) while keeping the new Physics scale at energies within reach
+of the LHC. Among the many possible effects, this scenario can lead to
+deviations from lepton flavour universality. We have investigated these
+signatures and found that the ratios $R_K$ and $R_\pi$ provide new, additional
+constraints on the inverse seesaw. We have also considered the embedding of the
+inverse seesaw in supersymmetric models. This leads to increased rates for
+various lepton flavour violating processes, due to enhanced contributions from
+penguin diagrams mediated by the Higgs and $Z^0$ bosons. Finally, we also found
+that the new invisible decay channels associated with the sterile neutrinos
+present in the supersymmetric inverse seesaw could significantly weaken the
+constraints on the mass and couplings of a light CP-odd Higgs boson.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Weiland_C/0/1/0/all/0/1&quot;&gt;C&amp;#xe9;dric Weiland&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5864">
+<title>Geometric Compatibility of IceCube TeV-PeV Neutrino Excess and its Galactic Dark Matter Origin. (arXiv:1311.5864v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5864</link>
+<description rdf:parseType="Literal">&lt;p&gt;We perform a geometric analysis for the sky map of the IceCube TeV-PeV
+neutrino excess and test its compatibility with the sky map of decaying dark
+matter signals in our galaxy. Using both Kolmogorov-Smirnov and the
+likelihood-ratio tests, we have found that the observed event sky map prefers
+to have a combination of the galactic dark matter and a homogeneous background
+contributions, compared to a purely galactic dark matter origin. For the
+assumption that the galactic dark matter is responsible for all neutrino
+excess, the current data can also exclude a wide range of dark matter profiles
+except flatter profiles such as the isothermal one. We also consider several
+representative decaying dark matter spectra, which can provide a good fit to
+the observed spectrum at IceCube with a dark matter lifetime of around 12
+orders of magnitude longer than the age of the universe.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Bai_Y/0/1/0/all/0/1&quot;&gt;Yang Bai&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Lu_R/0/1/0/all/0/1&quot;&gt;Ran Lu&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Salvado_J/0/1/0/all/0/1&quot;&gt;Jordi Salvado&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5869">
+<title>Neutrino Mass Textures and Partial $\mu$-$\tau$ Symmetry. (arXiv:1311.5869v1 [hep-ph])</title>
+<link>http://arxiv.org/abs/1311.5869</link>
+<description rdf:parseType="Literal">&lt;p&gt;We discuss the viability of the $\mu$--$\tau$ interchange symmetry imposed on
+the neutrino mass matrix in the flavor space. Whereas the exact symmetry is
+shown to lead to textures of completely degenerate spectrum which is
+incompatible with the neutrino oscillation data, introducing small
+perturbations into the preceding textures, inserted in a minimal way, lead
+however to four deformed textures representing an approximate $\mu$--$\tau$
+symmetry. We find that all these deformed textures are capable to accommodate
+the experimental data, in particular the non-vanishing value for the smallest
+mixing angle.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Lashin_E/0/1/0/all/0/1&quot;&gt;E. I. Lashin&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Chamoun_N/0/1/0/all/0/1&quot;&gt;N. Chamoun&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Hamzaoui_C/0/1/0/all/0/1&quot;&gt;C. Hamzaoui&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Nasri_S/0/1/0/all/0/1&quot;&gt;S. Nasri&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1209.0958">
+<title>A photon-proton marriage. (arXiv:1209.0958v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1209.0958</link>
+<description rdf:parseType="Literal">&lt;p&gt;The shapes of invariant differential cross section for charged hadron
+production as function of hadron&apos;s transverse momentum and rapidity in ep
+collisions at HERA machine are considered. The particle spectra shapes observed
+in pp and gamma-gamma collisions before have shown very different properties.
+This difference could be directly measured in the &quot;mixed&quot; type collisions of
+photon and proton at HERA experiments.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Bylinkin_A/0/1/0/all/0/1&quot;&gt;A. A. Bylinkin&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Rostovtsev_A/0/1/0/all/0/1&quot;&gt;A. A. Rostovtsev&lt;/a&gt; (Institute for Theoretical and Experimental Physics, ITEP, Moscow, Russia)</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1212.3694">
+<title>Vacuum Stability Constraints on the Minimal Singlet TeV Seesaw Model. (arXiv:1212.3694v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1212.3694</link>
+<description rdf:parseType="Literal">&lt;p&gt;We consider the minimal seesaw model in which two gauge singlet right handed
+neutrinos with opposite lepton numbers are added to the Standard Model. In this
+model, the smallness of the neutrino mass is explained by the tiny lepton
+number violating coupling between one of the singlets with the standard
+left-handed neutrinos. This allows one to have the right handed neutrino mass
+at the TeV scale as well as appreciable mixing between the light and heavy
+states. This model is fully reconstructible in terms of the neutrino
+oscillation parameters apart from the overall coupling strengths. We show that
+the overall coupling strength $y_\nu$ for the Dirac type coupling between the
+left handed neutrino and one of the singlets can be restricted by consideration
+of the (meta)stability bounds on the electroweak vacuum. Incorporating this
+bound, the overall coupling strength of the small lepton number violating
+coupling can also be constrained from neutrino oscillation data. In this
+scenario the lepton flavor violating decays of charged leptons can be
+appreciable which can put further constraint on $y_\nu$, for right-handed
+neutrinos at TeV scale. We discuss the combined constraints on $y_\nu$ for this
+scenario from the process $\mu \rightarrow e \gamma$ and from the consideration
+of vacuum (meta)stability constraints on the Higgs self coupling. We also
+briefly discuss the implications for neutrinoless double beta decay and
+possible signatures of the model that can be expected at colliders.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Khan_S/0/1/0/all/0/1&quot;&gt;Subrata Khan&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Goswami_S/0/1/0/all/0/1&quot;&gt;Srubabati Goswami&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Roy_S/0/1/0/all/0/1&quot;&gt;Sourov Roy&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1304.5737">
+<title>Probe of extra dimensions in gamma q-&gt;gamma q at the LHC. (arXiv:1304.5737v3 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1304.5737</link>
+<description rdf:parseType="Literal">&lt;p&gt;We have examined TeV scale effects of extra spatial dimensions through the
+processes gamma q-&amp;gt; gamma q where q=u,d,c,s,b, anti-u, anti-d, anti-c, anti-s,
+anti-b. These processes have been treated in a photon-proton collision via the
+main reaction pp-&amp;gt; p gamma p-&amp;gt; p gamma qX at the LHC. We have employed
+equivalent photon approximation for incoming photon beams and performed
+statistical analysis for various forward detector acceptances.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Sahin_I/0/1/0/all/0/1&quot;&gt;I. Sahin&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Billur_A/0/1/0/all/0/1&quot;&gt;A.A. Billur&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Inan_S/0/1/0/all/0/1&quot;&gt;S.C. Inan&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Sahin_B/0/1/0/all/0/1&quot;&gt;B. Sahin&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Koksal_M/0/1/0/all/0/1&quot;&gt;M. Koksal&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Tektas_P/0/1/0/all/0/1&quot;&gt;P. Tektas&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Alici_E/0/1/0/all/0/1&quot;&gt;E. Alici&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Yildirim_R/0/1/0/all/0/1&quot;&gt;R. Yildirim&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1304.6110">
+<title>Entanglement entropy in particle decay. (arXiv:1304.6110v3 [hep-th] UPDATED)</title>
+<link>http://arxiv.org/abs/1304.6110</link>
+<description rdf:parseType="Literal">&lt;p&gt;The decay of a parent particle into two or more daughter particles results in
+an entangled quantum state as a consequence of conservation laws in the decay
+process. Recent experiments at Belle and BaBar take advantage of quantum
+entanglement and the correlations in the time evolution of the product
+particles to study CP and T violations. If one (or more) of the product
+particles are not observed, their degrees of freedom are traced out of the pure
+state density matrix resulting from the decay, leading to a mixed state density
+matrix and an entanglement entropy. This entropy is a measure of the loss of
+information present in the original quantum correlations of the entangled
+state. We use the Wigner-Weisskopf method to construct an approximation to this
+state that evolves in time in a {\em manifestly unitary} way. We then obtain
+the entanglement entropy from the reduced density matrix of one of the daughter
+particles obtained by tracing out the unobserved states, and follow its time
+evolution. We find that it grows over a time scale determined by the lifetime
+of the parent particle to a maximum, which when the width of the parent
+particle is narrow, describes the phase space distribution of maximally
+entangled Bell-like states. The method is generalized to the case in which the
+parent particle is described by a wave packet localized in space. Possible
+experimental avenues to measure the entanglement entropy in the decay of mesons
+at rest are discussed.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Lello_L/0/1/0/all/0/1&quot;&gt;Louis Lello&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Boyanovsky_D/0/1/0/all/0/1&quot;&gt;Daniel Boyanovsky&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-th/1/au:+Holman_R/0/1/0/all/0/1&quot;&gt;Richard Holman&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1305.7494">
+<title>Monte Carlo Study on Distortion of the Space-Dimension in COBE Monopole Data. (arXiv:1305.7494v2 [astro-ph.CO] UPDATED)</title>
+<link>http://arxiv.org/abs/1305.7494</link>
+<description rdf:parseType="Literal">&lt;p&gt;A concise explanation of studies on distortion of space-time dimension is
+briefly introduced. Second we obtain the limits (i.e., bounded values) of the
+dimensionless chemical potential $\mu$, the Sunyaev--Zeldovich (SZ) effect y
+and distortion of the space-dimension $\varepsilon$ by Monte Carlo (MC)
+analysis of the parameter set (T, $d=3+\varepsilon$, $\mu$, and $y$) in cosmic
+microwave data assuming that the SZ effect is positive (y&amp;gt;0). In this analysis,
+the magnitude of the space-dimension d with distortion of the space-dimension
+$\varepsilon$ is defined by $d=3+\varepsilon$. The limits of $\mu$ and $y$ are
+determined as $|\mu| &amp;lt; 9\times 10^{-5} (2\sigma$) ($\mu = (-3.9\pm 2.6)\times
+10^{-5} (\sigma$)), $|y| &amp;lt; 5\times 10^{-6} (2\sigma$) ($y = (2.0\pm 1.4)\times
+10^{-6} (\sigma$)), while the distortion of the space-dimension is
+$|\varepsilon| &amp;lt; 6\times 10^{-5} (2\sigma$) ($\varepsilon = (-0.78\pm
+2.50)\times 10^{-5} (\sigma$)). The magnitudes of these three estimated limits
+are ordered as $|\mu| \ge |\varepsilon| &amp;gt; |y|$. The estimated limit of $|y| &amp;lt;
+5\times 10^{-6}$ appears to be related to re-ionization processes occurring at
+redshift $z_{ri}\sim 10$. We also present data analysis assuming a relativistic
+SZ effect.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Biyajima_M/0/1/0/all/0/1&quot;&gt;Minoru Biyajima&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Mizoguchi_T/0/1/0/all/0/1&quot;&gt;Takuya Mizoguchi&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1306.0564">
+<title>Heavy quark energy loss far from equilibrium in a strongly coupled collision. (arXiv:1306.0564v3 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1306.0564</link>
+<description rdf:parseType="Literal">&lt;p&gt;We compute and study the drag force acting on a heavy quark propagating
+through the matter produced in the collision of two sheets of energy in a
+strongly coupled gauge theory that can be analyzed holographically. Although
+this matter is initially far from equilibrium, we find that the equilibrium
+expression for heavy quark energy loss in a homogeneous strongly coupled plasma
+with the same instantaneous energy density or pressure as that at the location
+of the quark describes many qualitative features of our results. One
+interesting exception is that there is a time delay after the initial collision
+before the heavy quark energy loss becomes significant. At later times, once a
+liquid plasma described by viscous hydrodynamics has formed, expressions based
+upon assuming instantaneous homogeneity and equilibrium provide a
+semi-quantitative description of our results - as long as the rapidity of the
+heavy quark is not too large. For a heavy quark with large rapidity, the
+gradients in the velocity of the hydrodynamic fluid result in qualitative
+consequences for the &apos;drag&apos; force acting on the quark. In certain
+circumstances, the force required to drag the quark through the plasma can
+point opposite to the velocity of the quark, meaning that the force that the
+plasma exerts on a quark moving through it acts in the same direction as its
+velocity. And, generically, the force includes a component perpendicular to the
+direction of motion of the quark. Our results support a straightforward
+approach to modeling the drag on, and energy loss of, heavy quarks with modest
+rapidity in heavy ion collisions, both before and after the quark-gluon plasma
+hydrodynamizes, and provide cautionary lessons at higher rapidity.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Chesler_P/0/1/0/all/0/1&quot;&gt;Paul M. Chesler&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Lekaveckas_M/0/1/0/all/0/1&quot;&gt;Mindaugas Lekaveckas&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Rajagopal_K/0/1/0/all/0/1&quot;&gt;Krishna Rajagopal&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1306.6095">
+<title>Constraining Superluminal Electron and Neutrino Velocities using the 2010 Crab Nebula Flare and the IceCube PeV Neutrino Events. (arXiv:1306.6095v5 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1306.6095</link>
+<description rdf:parseType="Literal">&lt;p&gt;The observation of two PeV-scale neutrino events reported by Ice Cube can, in
+principle, allows one to place constraints on Lorentz invariance violation
+(LIV) in the neutrino sector. After first arguing that at least one of the
+IceCube events was of extragalactic origin, I derive an upper limit for {\it
+the difference} between putative superluminal neutrino and electron velocities
+of $\le \sim 5.6 \times 10^{-19}$ in units where $c = 1$, confirming that the
+observed PeV neutrinos could have reached Earth from extragalactic sources. I
+further derive a new constraint on the superluminal electron velocity, obtained
+from the observation of synchrotron radiation in the Crab Nebula flare of
+September, 2010. The inference that the $&amp;gt;$ 1 GeV $\gamma$-rays from
+synchrotron emission in the flare were produced by electrons of energy up to
+$\sim 5.1$ PeV indicates the non-occurrence of vacuum \&apos;{C}erenkov radiation by
+these electrons. This implies a new, strong constraint on superluminal electron
+velocities $\delta_e \le \sim 5 \times 10^{-21}$. It immediately follows that
+one then obtains an upper limit on the superluminal neutrino velocity {\it
+alone} of $\delta_{\nu} \le \sim 5.6 \times 10^{-19}$, many orders of magnitude
+better than the time-of-flight constraint from the SN1987A neutrino burst.
+However, if the electrons are {\it subluminal} the constraint on $|\delta_e|
+\le \sim 8 \times 10^{-17}$, obtained from the Crab Nebula $\gamma$-ray
+spectrum, places a weaker constraint on superluminal neutrino velocity of
+$\delta_{\nu} \le \sim 8 \times 10^{-17}$.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Stecker_F/0/1/0/all/0/1&quot;&gt;Floyd W. Stecker&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1307.2214">
+<title>Pressure isotropization in high energy heavy ion collisions. (arXiv:1307.2214v3 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1307.2214</link>
+<description rdf:parseType="Literal">&lt;p&gt;The early stages of high energy heavy ion collisions are studied in the Color
+Glass Condensate framework, with a real-time classical lattice simulation. When
+increasing the coupling constant, we observe a rapid increase of the ratio of
+longitudinal to transverse pressure. The transient regime that precedes this
+behavior is of the order of 1 fm/c.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Epelbaum_T/0/1/0/all/0/1&quot;&gt;Thomas Epelbaum&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Gelis_F/0/1/0/all/0/1&quot;&gt;Francois Gelis&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1307.7152">
+<title>Bremsstrahlung gamma rays from light Dark Matter. (arXiv:1307.7152v2 [astro-ph.HE] UPDATED)</title>
+<link>http://arxiv.org/abs/1307.7152</link>
+<description rdf:parseType="Literal">&lt;p&gt;We discuss the often-neglected role of bremsstrahlung processes on the
+interstellar gas in computing indirect signatures of Dark Matter (DM)
+annihilation in the Galaxy, particularly for light DM candidates in the
+phenomenologically interesting O(10) GeV mass range. Especially from directions
+close to the Galactic Plane, the expected gamma-ray spectrum is altered via two
+effects: directly, by the photons emitted in the bremsstrahlung process on the
+interstellar gas by energetic electrons which are among the DM annihilation
+byproducts; indirectly, by the modification of the same electron spectrum, due
+to the additional energy loss process in the diffusion-loss equation (e.g. the
+resulting inverse Compton emission is altered). We quantify the importance of
+the bremsstrahlung emission in the GeV energy range, showing that it is the
+dominant component of the gamma-ray spectrum for some cases. We also find that,
+in regions in which bremsstrahlung dominates energy losses, the related
+gamma-ray emission is only moderately sensitive to possible large variations in
+the gas density. Still, we stress that, for computing precise spectra in the
+(sub-)GeV range, it is important to obtain a reliable description of the inner
+Galaxy gas distribution as well as to compute self-consistently the gamma
+emission and the solution to the diffusion-loss equation. For example, these
+are crucial issues to quantify and interpret meaningfully gamma-ray map
+`residuals&apos; in terms of (light) DM annihilations.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Cirelli_M/0/1/0/all/0/1&quot;&gt;Marco Cirelli&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Serpico_P/0/1/0/all/0/1&quot;&gt;Pasquale D. Serpico&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Zaharijas_G/0/1/0/all/0/1&quot;&gt;Gabrijela Zaharijas&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1308.0459">
+<title>Strange Mass Corrections to Hyperonic Semi-leptonic Decay in Statistical Model. (arXiv:1308.0459v3 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1308.0459</link>
+<description rdf:parseType="Literal">&lt;p&gt;The spin distributions, weak decay matrix elements for strange baryon octets
+with SU(3) breaking effects is studied. We systematically apply operator
+formalism along with statistical method to study JP= strange baryon octets for
+their low energy properties. Baryon is taken as an ensemble of quark-gluon Fock
+states in sea with three valence quarks to have spin-1/2, color-1 and flavor-8
+quantum numbers. Detailed balance principle is applied to calculate the
+probabilities of each Fock states, with the inclusion of mass correction of
+strange quark in order to check the SU(3) breaking in weak decays constants and
+spin distributions. A dominant contribution from the vector sea is verified as
+compared to scalar and tensor sea, also the symmetry breaking correction leads
+to the deviations in the value of axial vector matrix elements ratio from
+experimental values by 17%. Present framework suggests a stronger base to
+choose statistical model with detailed balance principle to verify the
+experimental and theoretical values available and hence provide a deeper
+understanding to the strange baryon structure. Symmetry breaking effects lead
+to reduction in the values of axial matrix elements. Its contribution has a
+significant role in determining the validity of present approach.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Upadhyay_A/0/1/0/all/0/1&quot;&gt;A.Upadhyay&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Batra_M/0/1/0/all/0/1&quot;&gt;M. Batra&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1308.1445">
+<title>Smallness of \theta_{13} and the size of the Solar Mass Splitting: Are they related?. (arXiv:1308.1445v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1308.1445</link>
+<description rdf:parseType="Literal">&lt;p&gt;Compared to the other neutrino mixing angles \theta_{13} is small. The solar
+mass splitting is about two orders smaller than the atmospheric splitting. We
+show that it is possible that both are perturbative effects on a more symmetric
+structure. The perturbation also affects the solar mixing angle and can make
+alternate mixing patterns such as tribimaximal, bimaximal, or other variants
+equally viable. For real perturbations this can be accomplished only for normal
+mass ordering and with the lightest neutrino mass less than 10^{-2} eV. Both
+mass orderings can be accommodated by going over to complex perturbations
+provided the lightest neutrino is heavier. The CP-phase in the lepton sector
+that emerges distinguishes between different mixing models.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Pramanick_S/0/1/0/all/0/1&quot;&gt;Soumita Pramanick&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Raychaudhuri_A/0/1/0/all/0/1&quot;&gt;Amitava Raychaudhuri&lt;/a&gt; (University of Calcutta)</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1308.2186">
+<title>Coherence phenomena between initial and final state radiation in a dense QCD medium. (arXiv:1308.2186v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1308.2186</link>
+<description rdf:parseType="Literal">&lt;p&gt;In this work we investigate medium modifications to the interference pattern
+between initial and final state radiation. We compute single gluon production
+off a highly energetic parton that undergoes a hard scattering and subsequently
+crosses a dense QCD medium of finite size. We extend our previous studies
+obtained at first order in opacity by providing general results for multiple
+soft scatterings and their specific formulation within the harmonic oscillator
+approximation. We show that there is a gradual onset of decoherence between the
+initial and final state radiation due to multiple scatterings, that opens the
+phase space for large angle emissions. By examining the multiplicity of
+produced gluons, we observe a potentially large double logarithmic enhancement
+for dense media and small opening angles. This result points to a possible
+modification of the evolution equations due to a QCD medium of finite size. We
+briefly comment on the phenomenological consequences of this setup in
+high-energy nuclear collisions.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Armesto_N/0/1/0/all/0/1&quot;&gt;N&amp;#xe9;stor Armesto&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Ma_H/0/1/0/all/0/1&quot;&gt;Hao Ma&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Martinez_M/0/1/0/all/0/1&quot;&gt;Mauricio Martinez&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Mehtar_Tani_Y/0/1/0/all/0/1&quot;&gt;Yacine Mehtar-Tani&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Salgado_C/0/1/0/all/0/1&quot;&gt;Carlos A. Salgado&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.1601">
+<title>Higgs Production in Two-Photon Process and Transition Form Factor. (arXiv:1311.1601v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1311.1601</link>
+<description rdf:parseType="Literal">&lt;p&gt;The Higgs production in the two-photon fusion process is investigated where
+one of the photons is off-shell while the other one is on-shell. This process
+is realized in either electron-positron collision or electron-photon collision
+where the scattered electron or positron is detected (single tagging) and
+described by the transition form factor. We calculate the contributions to the
+transition form factor of the Higgs boson coming from top-quark loops and
+W-boson loops. We then study the $Q^2$ dependence of each contribution to the
+total transition form factor and also of the differential cross section for the
+Higgs production.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Watanabe_N/0/1/0/all/0/1&quot;&gt;Norihisa Watanabe&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Kurihara_Y/0/1/0/all/0/1&quot;&gt;Yoshimasa Kurihara&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Sasaki_K/0/1/0/all/0/1&quot;&gt;Ken Sasaki&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Uematsu_T/0/1/0/all/0/1&quot;&gt;Tsuneo Uematsu&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.2453">
+<title>Stability of cosmological deflagration fronts. (arXiv:1311.2453v2 [astro-ph.CO] UPDATED)</title>
+<link>http://arxiv.org/abs/1311.2453</link>
+<description rdf:parseType="Literal">&lt;p&gt;In a cosmological first-order phase transition, bubbles of the stable phase
+nucleate and expand in the supercooled metastable phase. In many cases, the
+growth of bubbles reaches a stationary state, with bubble walls propagating as
+detonations or deflagrations. However, these hydrodynamical solutions may be
+unstable under corrugation of the interface. Such instability may drastically
+alter some of the cosmological consequences of the phase transition. Here, we
+study the hydrodynamical stability of deflagration fronts. We improve upon
+previous studies by making a more careful and detailed analysis. In particular,
+we take into account the fact that the equation of motion for the phase
+interface depends separately on the temperature and fluid velocity on each side
+of the wall. Fluid variables on each side of the wall are similar for weakly
+first-order phase transitions, but differ significantly for stronger phase
+transitions. As a consequence, we find that, for large enough supercooling, any
+subsonic wall velocity becomes unstable. Moreover, as the velocity approaches
+the speed of sound, perturbations become unstable on all wavelengths. For
+smaller supercooling and small wall velocities, our results agree with those of
+previous works. Essentially, perturbations on large wavelengths are unstable,
+unless the wall velocity is higher than a critical value. We also find a
+previously unobserved range of marginally unstable wavelengths. We analyze the
+dynamical relevance of the instabilities, and we estimate the characteristic
+time and length scales associated to their growth. We discuss the implications
+for the electroweak phase transition and its cosmological consequences.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Megevand_A/0/1/0/all/0/1&quot;&gt;Ariel Megevand&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/astro-ph/1/au:+Membiela_F/0/1/0/all/0/1&quot;&gt;Federico Agustin Membiela&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1311.5398">
+<title>QCD Factorization of Semi-inclusive DIS process at Operator Level. (arXiv:1311.5398v2 [hep-ph] UPDATED)</title>
+<link>http://arxiv.org/abs/1311.5398</link>
+<description rdf:parseType="Literal">&lt;p&gt;The operator level proof of factorization theorem exhibited in [1] is
+extended to the semi-inclusive deep inelastic scattering process(SIDIS).
+Factorization theorem can be proved at operator level if there are not detected
+soft hadrons.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-ph/1/au:+Zhou_G/0/1/0/all/0/1&quot;&gt;Gao-Liang Zhou&lt;/a&gt;</dc:creator>
+</item>
+<item rdf:about="http://arxiv.org/abs/1310.3626">
+<title>Lattice QCD at the physical point meets SU(2) chiral perturbation theory. (arXiv:1310.3626v1 [hep-lat] CROSS LISTED)</title>
+<link>http://arxiv.org/abs/1310.3626</link>
+<description rdf:parseType="Literal">&lt;p&gt;We perform a detailed, fully-correlated study of the chiral behavior of the
+pion mass and decay constant, based on 2+1 flavor lattice QCD simulations.
+These calculations are implemented using tree-level, O(a)-improved Wilson
+fermions, at four values of the lattice spacing down to 0.054 fm and all the
+way down to below the physical value of the pion mass. They allow a sharp
+comparison with the predictions of SU(2) chiral perturbation theory (\chi PT)
+and a determination of some of its low energy constants. In particular, we
+systematically explore the range of applicability of NLO SU(2) \chi PT in two
+different expansions: the first in quark mass (x-expansion), and the second in
+pion mass (\xi-expansion). We find that these expansions begin showing signs of
+failure around M_\pi=300 MeV for the typical percent-level precision of our
+N_f=2+1 lattice results. We further determine the LO low energy constants
+(LECs), F=88.0 \pm 1.3\pm 0.3 and B^\msbar(2 GeV)=2.58 \pm 0.07 \pm 0.02 GeV,
+and the related quark condensate, \Sigma^\msbar(2 GeV)=(271\pm 4\pm 1 MeV)^3,
+as well as the NLO ones, l_3=2.5 \pm 0.5 \pm 0.4 and l_4=3.8 \pm 0.4 \pm 0.2,
+with fully controlled uncertainties. We also explore the NNLO expansions and
+the values of NNLO LECs. In addition, we show that the lattice results favor
+the presence of chiral logarithms. We further demonstrate how the absence of
+lattice results with pion masses below 200 MeV can lead to misleading results
+and conclusions. Our calculations allow a fully controlled, ab initio
+determination of the pion decay constant with a total 1% error, which is in
+excellent agreement with experiment.
+&lt;/p&gt;
+</description>
+<dc:creator> &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Durr_S/0/1/0/all/0/1&quot;&gt;Stephan Durr&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Fodor_Z/0/1/0/all/0/1&quot;&gt;Zoltan Fodor&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Hoelbling_C/0/1/0/all/0/1&quot;&gt;Christian Hoelbling&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Krieg_S/0/1/0/all/0/1&quot;&gt;Stefan Krieg&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Kurth_T/0/1/0/all/0/1&quot;&gt;Thorsten Kurth&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Lellouch_L/0/1/0/all/0/1&quot;&gt;Laurent Lellouch&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Lippert_T/0/1/0/all/0/1&quot;&gt;Thomas Lippert&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Malak_R/0/1/0/all/0/1&quot;&gt;Rehan Malak&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Metivet_T/0/1/0/all/0/1&quot;&gt;Thibaut Metivet&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Portelli_A/0/1/0/all/0/1&quot;&gt;Antonin Portelli&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Sastre_A/0/1/0/all/0/1&quot;&gt;Alfonso Sastre&lt;/a&gt;, &lt;a href=&quot;http://arxiv.org/find/hep-lat/1/au:+Szabo_K/0/1/0/all/0/1&quot;&gt;Kalman Szabo&lt;/a&gt;</dc:creator>
+</item>
+</rdf:RDF>
