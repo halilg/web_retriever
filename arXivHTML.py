@@ -30,12 +30,11 @@ table.bottomBorder td, table.bottomBorder th { border-bottom:1px dotted black;pa
 </style>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+    tex2jax: {inlineMath: [['$','$']]}
   });
-  
 </script>
 <script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
 </script>
 </head>
 <body>
@@ -58,7 +57,7 @@ for (i=0; i<hide.length; i++) {
 $PAPERS
 </table>
 <p><a href="index.html">&lt;&lt; Back to index</a></p>
-<p>Feed retrieved from <a href="http://arxiv.org/">arxiv.org</p>
+<p><i>Feed retrieved from <a href="http://arxiv.org/">arxiv.org</i></p>
 </body>
 </html>
 """
