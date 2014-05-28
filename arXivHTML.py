@@ -14,9 +14,11 @@ class arXivHTML:
     gtemplate="""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-<html>
 <head>
-<title>arXiv Updates ($FEED): $DATE</title>
+<meta name="description" content="arXiv.org new abstracts feed cache ($FEED)">
+<meta name="keywords" content="arxiv.org, $FEED, physics">
+<meta name="author" content="Halil Gamsızkan, http://halilgamsizkan.home.anadolu.edu.tr">
+<title>arXiv.org Updates ($FEED): $DATE</title>
 <style type="text/css">
 body {margin-left:50px;}
 hr {color:sienna;}
@@ -55,6 +57,8 @@ for (i=0; i<hide.length; i++) {
 <table width="800" class="bottomBorder">
 $PAPERS
 </table>
+<p><a href="index.html">&lt;&lt; Back to index</a></p>
+<p>Feed retrieved from <a href="http://arxiv.org/">arxiv.org</p>
 </body>
 </html>
 """
