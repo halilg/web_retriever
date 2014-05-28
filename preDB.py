@@ -5,19 +5,15 @@ import os, sys, sqlite3
 
 class prepDB:
     conn=None
-    tables=[ ("daily (dret text, dsub text, feed text)"), 
-             ("preprints (id text, title text, summary text, url text)"),
-             ("authors (id long, name text, surname text, url text)"),
-             ("palinks (pid long, aid text)"),
-           ]
-
+    arxivsql="arXivdb.sql"
     def __init__(self, dbname):
         self.open(dbname)
 
     def createTables(self):
-        print "creating tables",
-        for table in self.tables:
-            self.conn.execute('create table %s' % (table))
+        print "creating database",
+        sql=open(self.arxivsql).readlines()
+        for line in sql:
+            self.conn.execute(line.strip())
             print ".",
         self.conn.commit()
         print "done"
