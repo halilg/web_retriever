@@ -66,7 +66,7 @@ $PAPERS
 <TR onMouseOver="this.bgColor='#FAFAFA'" onMouseOut="this.bgColor='#FFFFFF'" bgColor=#FFFFFF>
 <TD>
 <div onclick="javascript:hide('$ID');">
-    <h4>$TITLE <a href="$LINK" target="_blank">⍓</a></h4>
+    <h4>$TITLE <a href="$LINK" target="_blank">&#9043;</a></h4>
     $CREATOR<br/>
 </div>
 <div name="$ID" style = "display:none">
