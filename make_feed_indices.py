@@ -12,6 +12,9 @@ gtemplate="""<?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <html>
 <head>
+<meta name="description" content="arXiv.org new abstracts feed cache ($FEED)">
+<meta name="keywords" content="arxiv.org, $FEED, physics">
+<meta name="author" content="Halil Gamsızkan, http://halilgamsizkan.home.anadolu.edu.tr">
 <title>arXiv Updates ($FEED)</title>
 <style type="text/css">
 body {margin-left:50px;}
