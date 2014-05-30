@@ -15,7 +15,7 @@ for xml in $RSSDIR/*; do
     htmlfile=$targetdir/`basename $xml`.html
     htmlfile=`echo $htmlfile | sed s/.rss.gz//`
     if [[ -s $htmlfile && $OPT != -R ]]; then
-        echo "skipping" $htmlfile
+        #echo "skipping" $htmlfile
     else
         mkdir -p $targetdir
         ./arXivHTML.py $xml $htmlfile
