@@ -39,7 +39,7 @@ table.bottomBorder td, table.bottomBorder th { border-bottom:1px dotted black;pa
 $HTMLFILES
 </ul>
 </table>
-<br/><a href="../">&lt;&lt; Return to index</a>
+<br/><a href="../">&lt;&lt; Back to feeds index</a>
 </body>
 </html>
 """
