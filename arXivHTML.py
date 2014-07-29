@@ -65,7 +65,7 @@ $PAPERS
 <TR onMouseOver="this.bgColor='#FAFAFA'" onMouseOut="this.bgColor='#FFFFFF'" bgColor=#FFFFFF>
 <TD>
 <div onclick="javascript:hide('$ID');">
-    <h4>$TITLE <a href="$LINK" target="_blank">&#9043;</a></h4>
+    <h4>$TITLE <a href="$LINK" target="_blank">$HLTEXT</a></h4>
     $CREATOR<br/>
 </div>
 <div name="$ID" style = "display:none">
@@ -78,13 +78,13 @@ $PAPERS
     
     def go(self, rdf):
         
+        linktext="*"
         # fill in the global template
         HTML=self.gtemplate
         HTML=HTML.replace("$FEED", rdf["title"])
         HTML=HTML.replace("$DATETIME",rdf["date"])
         HTML=HTML.replace("$DATE",rdf["date"].split("T")[0])
         HTML=HTML.replace("$NPAPERS", str(len(rdf["papers"])))
-
         #the papers section
         papers="" 
         for preprint in rdf["papers"]:
@@ -99,6 +99,7 @@ $PAPERS
                 tauthor=self.atemplate.replace("$AUTHOR",author)
                 authors.append(tauthor)
             paper=paper.replace("$CREATOR", ", ".join(authors))
+            paper=paper.replace("$HLTEXT", linktext)
             
             papers=papers + paper
         
